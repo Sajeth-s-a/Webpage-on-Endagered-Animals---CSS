@@ -1,0 +1,111 @@
+body{
+	background-color: #241f1f;
+}
+#title{
+	font-size: 18px;
+	padding: 25px;
+	font-family: marquee;
+	color:white;
+	text-decoration: none; 
+	background:url(https://i.pinimg.com/originals/78/cf/18/78cf188b6eee5fef5e9d6d44dc45c526.jpg);
+}
+#NOW{
+     background-color: #333540;
+     float:right;
+     color: lightgreen;
+     width: 225px;
+     height: 30px;
+}
+#TAKE{
+	 background-color: #2b823f;
+     float:right;
+     color: black;
+     width: 225px;
+     height: 30px;
+}
+#vid{
+	margin-top:-170px;
+	margin-left: -30px;
+	float: left;
+	padding: 10px;
+	z-index: -1;
+	
+}
+#save{
+	float:left;
+	padding:-200px;
+	margin:0px;
+	width:300px;
+	height:200px;
+
+}
+ 
+
+#cap{
+	margin:50px 700px 100px 0px ;
+	width:350px;
+	height:250px;
+}
+body{
+	background:url(http://eskipaper.com/images/wild-wallpaper-4.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+    margin:0%;
+}
+.last p{
+	font-family:"bodoni mt black";
+	font-size:24px;
+	font-color:rgba(0,0,0,0.8);
+	float:center;
+	background-color:#c9d0d1;
+	text-align:center;
+	line-height:60px;
+} 
+.last p input{
+	width:200px;
+	height:45px;
+	background-color: #3c3d38;
+	color:#94b510;
+	font-size:18px;
+}
+.last2 p{
+	background-color:white;
+	color:gray;
+	text-align:center;
+	font-family: "bodoni mt black";
+	line-height:50px;
+	font-size:24px;
+
+
+}
+#animals{
+	color:#6c9406;
+	font-size:28px;
+	font-family: "aerial bold";
+}
+.last2{
+	background-color: white;
+	margin-top:-25px;
+}
+#rhino{
+	padding-left: 135px;
+}
+#walrus{
+   padding-left: 100px; 
+}
+#leo{
+	padding-left: 135px;
+}
+#tiger{
+	padding-left: 135px;
+}
+#share{
+     background-color: white;
+}
+#fb{
+     margin-left: 550px;}
+#share p{
+     font-size: 24px;
+     font-family: "Franklin Gothic Heavy";
+     text-align: center;}
